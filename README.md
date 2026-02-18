@@ -179,16 +179,6 @@ python brute_force_detector.py
 
 ---
 
-## 🚀 Future Improvements
-
-- Email alert integration
-- Slack / Telegram notifications
-- GeoIP enrichment
-- Dockerized deployment
-- Advanced SIEM rule expansion
-
----
-
 ## 👤 Author
 
 **Raghavan M**
